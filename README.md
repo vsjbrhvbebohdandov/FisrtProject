@@ -7,6 +7,6 @@
 <h3>Im java script delever</h3>
 
 <h2>This is Unorder list:</h2>
-<ul>my facebook</ul>
-<ul>my website</ul>
-<ul>my telegram</ul>
+<li>my facebook</li>
+<li>my website</li>
+<li>my telegram</li>
