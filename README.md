@@ -2,7 +2,7 @@
 
 <h2>My name is cat</h2>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fcat&psig=AOvVaw0DgaH6CHfNzWoLVDIxgp9b&ust=1729950045243000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjq5ZuCnYkDFQAAAAAdAAAAABAI">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/800px-Cat03.jpg">
 
 <h3>Im java script delever</h3>
 
